@@ -21,7 +21,9 @@ tup = (1, 20, 40 ) #리스트와 다른점 : 내용을 바꿀 수 없음
 #list_2 = [x for x in tup]
 #print(list_2)
 
+"""
 list_3 = []
 for x in tup:
   list_3.append(x)
   print(list_3)
+"""
